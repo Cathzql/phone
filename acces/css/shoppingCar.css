@@ -1,0 +1,20 @@
+.car{
+	font-size: .4rem;
+	height: 6rem;
+	width: 5rem;
+	margin: 3rem auto;
+	position: relative;
+}
+.car span{
+	color: #f69;
+	display: inline-block;
+	margin-right: .2rem;
+}
+.car a{
+	text-decoration: underline;
+}
+.car img{
+	position: absolute;
+	left: .8rem;
+	top: 1rem;
+}
